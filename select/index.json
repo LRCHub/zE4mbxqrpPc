@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "WHITE BREATH -MORE FREEZE MIX-",
+  "base_artist": "T.M. Revolution",
+  "createdAt": "2025-12-01T13:17:33.976904Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "WHITE BREATH -MORE FREEZE MIX-",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/01_WHITE_BREATH_-MORE_FREEZE_MIX-_T.M.Revolution.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WHITE BREATH -MORE FREEZE MIX-",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/pl_01_WHITE_BREATH_-MORE_FREEZE_MIX-_T.M.Revolution.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "White Breath [More Freeze Mix]",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/pl_02_White_Breath_[More_Freeze_Mix]_T.M.Revolution.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "White Breath [More Freeze Mix]",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/pl_03_White_Breath_[More_Freeze_Mix]_T.M.Revolution.txt"
+    }
+  ]
+}
